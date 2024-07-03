@@ -2,7 +2,7 @@
 
 ## 概述
 
-&emsp;&emsp; Nullmax 多相机3D目标检测新方法 QAF2D，MCSD: An Efficient Language Model with Diverse Fusion
+&emsp;&emsp; Nullmax 多相机3D目标检测新方法 QAF2D（Enhancing 3D Object Detection with 2D Detection-Guided Query Anchors）
 
 - arxiv: [https://arxiv.org/abs/2403.06093](https://arxiv.org/abs/2403.06093)
 

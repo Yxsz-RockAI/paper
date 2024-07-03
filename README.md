@@ -1,7 +1,5 @@
 # MCSD介绍
 
- [MCSD- An Efficient Language Model with Diverse Fusion.pdf](yan/MCSD- An Efficient Language Model with Diverse Fusion.pdf)
-
 ## **概述**
 &emsp;&emsp;Yan架构大模型当前最新版本为Yan1.2，MCSD是其中的一个重要模块。
 ## **整体结构**

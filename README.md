@@ -1,11 +1,16 @@
-## RockAI Paper
+## [RockAI](https://www.rockai.net)
 
 [Yan](RockAI/yan/README.md)
 - arxiv：[https://arxiv.org/abs/2406.12230](https://arxiv.org/abs/2406.12230)
-- 官网：https://www.rockai.net
 
-## Nullmax Paper
+![rockai](RockAI/yan/imgs/rockai-yan.png)
 
-- [QAF2D](Nullmax/QAF2D/README.md)
 
-- [SimPB](Nullmax/SimPB/README.md)
+## [Nullmax](https://www.nullmax.ai/)
+
+[QAF2D](Nullmax/QAF2D/README.md)
+- arxiv: [https://arxiv.org/abs/2403.06093](https://arxiv.org/abs/2403.06093)
+
+
+[SimPB](Nullmax/SimPB/README.md)
+- arxiv: [https://arxiv.org/abs/2403.10353](https://arxiv.org/abs/2403.10353)

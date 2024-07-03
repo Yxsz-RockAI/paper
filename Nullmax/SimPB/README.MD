@@ -8,8 +8,7 @@ Enhancing 3D Object Detection with 2D Detection-Guided Query Anchors
 
 - arxiv: [https://arxiv.org/abs/2403.10353](https://arxiv.org/abs/2403.10353)
 
-
-##
+## 整体框架
 
 Nullmax 提出了统一的目标检测模型，能够以端到端、单阶段的方式同时检测透视视图中的 2D 目标和 BEV 空间中的 3D 目标，并自动实现2D-3D Box之间的关联，通过循环迭代的方式将2D和3D的结果持续交互，充分发挥图像空间和BEV空间的检测优势，实现了出色的多相机2D和3D检测效果。
 

@@ -1,7 +1,9 @@
 # MCSD介绍
 
 ## **概述**
-&emsp;&emsp;Yan架构大模型当前最新版本为Yan1.2，MCSD是其中的一个重要模块。
+&emsp;&emsp;[MCSD: An Efficient Language Model with Diverse Fusion](https://arxiv.org/abs/2406.12230)，Yan架构大模型当前最新版本为Yan1.2，MCSD是其中的一个重要模块。
+
+
 ## **整体结构**
 &emsp;&emsp;Transformer因其能够并行训练和全局注意力机制而在自然语言处理（NLP）领域得到广泛采用。然而，在自注意力中使用矩阵乘法会导致计算复杂度高和推理速度慢。为了解决这些限制，我们提出了MCSD架构，一种新颖的语言模型架构，具有轻量级部署和快速推理能力。整体框架如图一(a)所示。
 

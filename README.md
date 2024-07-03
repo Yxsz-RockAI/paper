@@ -1,7 +1,9 @@
 # MCSD介绍
 
 ## **概述**
-&emsp;&emsp;[MCSD: An Efficient Language Model with Diverse Fusion](https://arxiv.org/abs/2406.12230)，Yan架构大模型当前最新版本为Yan1.2，MCSD是其中的一个重要模块。
+&emsp;&emsp;Yan架构大模型当前最新版本为Yan1.2，MCSD是其中的一个重要模块。
+
+- arxiv：[https://arxiv.org/abs/2406.12230](https://arxiv.org/abs/2406.12230)
 
 
 ## **整体结构**

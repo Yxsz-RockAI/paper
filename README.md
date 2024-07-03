@@ -8,9 +8,9 @@
 
 ## [Nullmax](https://www.nullmax.ai/)
 
-[QAF2D](Nullmax/QAF2D/README.md)
+[QAF2D](Nullmax/QAF2D/README.MD)
 - arxiv: [https://arxiv.org/abs/2403.06093](https://arxiv.org/abs/2403.06093)
 
 
-[SimPB](Nullmax/SimPB/README.md)
+[SimPB](Nullmax/SimPB/README.MD)
 - arxiv: [https://arxiv.org/abs/2403.10353](https://arxiv.org/abs/2403.10353)

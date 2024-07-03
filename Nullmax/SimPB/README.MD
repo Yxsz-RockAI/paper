@@ -2,9 +2,7 @@
 
 ## 概述
 
-&emsp;&emsp; SimPB实现多相机BEV和图像空间同时检测
-
-Enhancing 3D Object Detection with 2D Detection-Guided Query Anchors
+&emsp;&emsp; SimPB实现多相机BEV和图像空间同时检测，SimPB: A Single Model for 2D and 3D Object Detection from Multiple Cameras
 
 - arxiv: [https://arxiv.org/abs/2403.10353](https://arxiv.org/abs/2403.10353)
 
